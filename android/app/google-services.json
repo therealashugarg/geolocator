@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "874392590874",
+    "project_id": "geolocation-56842",
+    "storage_bucket": "geolocation-56842.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874392590874:android:f165ea56e3249af1b90fa3",
+        "android_client_info": {
+          "package_name": "com.developerashu.getmygps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874392590874-qfup5bm8p25of80eueq293dul5qnft6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaq_0tGxBGn05kXtNpGzOO-PFHuHFdARw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874392590874-qfup5bm8p25of80eueq293dul5qnft6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874392590874:android:bc5cd75822e90677b90fa3",
+        "android_client_info": {
+          "package_name": "com.therealashugarg.getmygps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874392590874-n2j85c4embbg3583f3239qjnaqofh3nh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.therealashugarg.getmygps",
+            "certificate_hash": "faddfc2b6be9b6965fe9bcf8a6cbb3fa87e0e561"
+          }
+        },
+        {
+          "client_id": "874392590874-qfup5bm8p25of80eueq293dul5qnft6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaq_0tGxBGn05kXtNpGzOO-PFHuHFdARw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874392590874-qfup5bm8p25of80eueq293dul5qnft6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
